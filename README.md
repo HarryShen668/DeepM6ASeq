@@ -1,6 +1,9 @@
 # DeepM6ASeq
 
 DeepM6ASeq is a deep-learning-based framework to predict m6A-containing sequences and visualize saliency map for sequences. 
+which is an important tool
+
+
 
 # Dependency
 
