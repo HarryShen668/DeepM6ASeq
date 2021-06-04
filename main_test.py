@@ -10,7 +10,6 @@ import argparse
 import numpy as np
 import torch.nn.functional as F
 import os
-
 from Bio import SeqIO
 from Bio.Seq import Seq
 
